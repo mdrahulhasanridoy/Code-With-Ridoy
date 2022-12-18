@@ -2,6 +2,7 @@
 //Author: Md. Rahul Hasan Ridoy
 //Date: 13/12/2022
 //Description: This is a simple program to take input from the user in C language
+//Learn about input in C language
 
 #include<stdio.h>
 int main()

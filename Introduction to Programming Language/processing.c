@@ -2,6 +2,7 @@
 //Author: Md. Rahul Hasan Ridoy
 //Date: 13/12/2022
 //Description: This is a simple program to sum two numbers in C language
+//Learn about processing in C language
 
 #include<stdio.h>
 int main()
@@ -16,7 +17,7 @@ int main()
     scanf("%d %d",&a,&b);
 
     //variable declaration
-    int sum;
+    int sum;//sum is a variable of type integer
     
     //process of summing two numbers
     sum = a + b;
@@ -26,6 +27,8 @@ int main()
     return 0;
 }
 
-//Input: 10 20
+//Compiler: gcc 6.3.0
+//Version: 1.0.0
+//Input: Enter two numbers: 10 20
 //Output: The sum of two numbers is 30
 //Status: Working

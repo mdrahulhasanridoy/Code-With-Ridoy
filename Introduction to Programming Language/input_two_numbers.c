@@ -2,10 +2,7 @@
 //Author: Md. Rahul Hasan Ridoy
 //Date: 13/12/2022
 //Description: This is a simple program to take two input from the user in C language
-//Compiler: gcc 6.3.0
-//Output: 10 20
-//Version: 1.0.0
-//Status: Working
+//Learn about input in C language
 
 #include<stdio.h>
 int main()

@@ -8,3 +8,12 @@
     #### Description: This is a simple program to take two input from the user in C language
 4. [processing.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/fad04ba0e145d7846c6b8e0a0266216f0f7097ff/Introduction%20to%20Programming%20Language/processing.c)
     #### Description: This is a simple program to sum two numbers in C language
+5.  [find_the_area_of_a_circle.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/fad04ba0e145d7846c6b8e0a0266216f0f7097ff/Introduction%20to%20Programming%20Language/find_the_area_of_a_circle.c)
+    #### Description: This is a simple program to find the area of a circle in C language
+
+6. [find_the_area_of_a_triangle_given_its_base_and_height.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/fad04ba0e145d7846c6b8e0a0266216f0f7097ff/Introduction%20to%20Programming%20Language/find_the_area_of_a_triangle_given_its_base_and_height.c)
+    #### Description: This is a simple program to find the area of a triangle in C language
+
+7. [find_the_area_of_a_triangle_given_its_sides.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/fad04ba0e145d7846c6b8e0a0266216f0f7097ff/Introduction%20to%20Programming%20Language/find_the_area_of_a_triangle_given_its_sides.c)
+    #### Description: This is a simple program to find the area of a triangle in C language
+

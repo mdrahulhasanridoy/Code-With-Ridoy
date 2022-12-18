@@ -3,6 +3,8 @@
 //Author: Md. Rahul Hasan Ridoy
 //Date: 13/12/2022
 //Description: This is a simple program to print "Hello World" in C language
+//First program in C language
+//Learn about printf in C language
 
 #include<stdio.h>
 //stdio.h is a header file
