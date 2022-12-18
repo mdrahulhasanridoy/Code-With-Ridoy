@@ -26,9 +26,15 @@ int main()
     printf("The value of a is %d\n",a);
     //%d is replace by a
     printf("The value of b is %d",b);
-    ////%d is replace by b
+    //%d is replace by b
 
     return 0;
     //return 0 means the program is successfully executed
 }
 
+//Compiler: gcc 6.3.0
+//Input two numbers: 10 20
+//Output: The value of a is 10
+//        The value of b is 20
+//Version: 1.0.0
+//Status: Working

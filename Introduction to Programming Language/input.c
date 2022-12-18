@@ -68,5 +68,6 @@ int main()
 
 //Compiler: gcc 6.3.0
 //Version: 1.0.0
-//Output: 10
+//Input: Enter a number: 10
+//Output: Value of a is 10
 //Status: Working
