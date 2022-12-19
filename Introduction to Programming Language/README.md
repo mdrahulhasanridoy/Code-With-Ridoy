@@ -17,3 +17,11 @@
 7. [find_the_area_of_a_triangle_given_its_sides.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/fad04ba0e145d7846c6b8e0a0266216f0f7097ff/Introduction%20to%20Programming%20Language/find_the_area_of_a_triangle_given_its_sides.c)
     #### Description: This is a simple program to find the area of a triangle in C language
 
+8. [data_type.c]()
+
+    #### Description: This is a simple program to show the data type in C language
+
+9. [find_the_sum_and_average_of_three_integers.c]()
+    #### Description: This is a simple program to find the sum and average of three integers
+
+10. 
