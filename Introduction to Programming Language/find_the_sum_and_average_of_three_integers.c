@@ -7,21 +7,26 @@
 int main()
 {
     //variable declaration
-    int a,b,c,sum,average;
+    int a,b,c,sum;
+    float average;
 
-    //Create message to take input from the user
-    printf("Enter the three numbers: ");
+    //input the value of a,b,c
+    printf("Enter the value of a: ");
+    scanf("%d",&a);
+    printf("Enter the value of b: ");
+    scanf("%d",&b);
+    printf("Enter the value of c: ");
+    scanf("%d",&c);
+
 
     //variable initialization
-    scanf("%d %d %d",&a,&b,&c);
-
-    //process of finding the sum and average of three integers
+    //find the sum and average
     sum = a+b+c;
-    average = sum/3;
+    average = sum/3.0;//3.0 is float data type
 
-    //process of printing the sum and average of three integers
-    printf("The sum of three numbers is %d\n",sum);
-    printf("The average of three numbers is %d",average);
+    //print the value of sum and average
+    printf("The sum of a,b,c is %d \n",sum);
+    printf("The average of a,b,c is %f",average);
 
     //end of the program
     return 0;
@@ -29,7 +34,23 @@ int main()
 
 //Compiler: gcc 6.3.0
 //Version: 1.0.0
-//Input: 10 20 30
-//Output: The sum of three numbers is 60
-//        The average of three numbers is 20
+//Input: 1 2 4
+//Output: Enter the value of a: 1 
+//        Enter the value of b: 2
+//        Enter the value of c: 4
+//        The sum of a,b,c is 7
+//        The average of a,b,c is 2.333333
 //Status: Working
+
+//Note: float float = float
+//      int float = float
+//      float int = float
+//      int int = int
+//      int int int = int
+//      int int float = float
+//      float int int = float
+//      float float int = float
+//      float int float = float
+//      int float int = float
+//      int float float = float
+//      float float float = float
