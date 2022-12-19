@@ -15,11 +15,11 @@
 7. [find_the_area_of_a_triangle_given_its_sides.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/edf9c83943b37e4255b1ce5d0ebdf45fd008a9c5/Introduction%20to%20Programming%20Language/find_the_area_of_a_triangle_given_its_sides.c)
     #### Description: This is a simple program to find the area of a triangle in C language
 
-8. [data_type.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/ff1f87ecf2305cab608da3550ea72cdf722a1dbd/Introduction_to_Programming_Language/data_type.c)
+8. [data_type.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/21a7606e47c130096542366d3d23a62dc0c40fa1/Introduction%20to%20Programming%20Language/data_type.c)
 
     #### Description: This is a simple program to show the data type in C language
 
-9. [find_the_sum_and_average_of_three_integers.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/ff1f87ecf2305cab608da3550ea72cdf722a1dbd/Introduction_to_Programming_Language/find_the_sum_and_average_of_three_integers.c)
+9. [find_the_sum_and_average_of_three_integers.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/21a7606e47c130096542366d3d23a62dc0c40fa1/Introduction%20to%20Programming%20Language/find_the_sum_and_average_of_three_integers.c)
     #### Description: This is a simple program to find the sum and average of three integers
 
 10. 
