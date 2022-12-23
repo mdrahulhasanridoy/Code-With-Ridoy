@@ -22,3 +22,24 @@
     #### Description: This is a simple program to find the sum and average of five integers
 11. [type_casting.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/4de8868026a7889673e520d71c1dd9a0794250e7/Introduction%20to%20Programming%20Language/type_casting.c)
     #### Description: This is a simple program about type casting
+12. [remainder.c]()
+
+    #### Description: This program will show how to find the remainder of a number.
+
+13. [mixwd_input.c]()
+
+    #### Description: This program will show how to write int and char in a single line & duo line.
+
+14. [convert_character_to_int.c]()
+
+    #### Description: This program will show how to convert character to ASCII value.
+
+15. [distance_between_ASCII_value.c]()
+
+    #### Description: This program will show how to find the distance between two ASCII value.
+
+16. [convert_int_to_character_and_show_distance.c]()
+
+    #### Description: This program will show how to convert int to character and show the distance between two ASCII value.
+
+    

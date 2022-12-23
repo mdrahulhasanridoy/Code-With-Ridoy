@@ -1,4 +1,3 @@
-//hello world.c
 //hello_world.c
 //Author: Md. Rahul Hasan Ridoy
 //Date: 13/12/2022
