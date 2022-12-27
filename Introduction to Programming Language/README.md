@@ -22,30 +22,24 @@
     #### Description: This is a simple program to find the sum and average of five integers
 11. [type_casting.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/4de8868026a7889673e520d71c1dd9a0794250e7/Introduction%20to%20Programming%20Language/type_casting.c)
     #### Description: This is a simple program about type casting
-12. [remainder.c]()
+12. [remainder.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/f5182b68938262dc7b957c1c28880bc12212b8f1/Introduction%20to%20Programming%20Language/remainder.c)
 
     #### Description: This program will show how to find the remainder of a number.
 
-13. [mixwd_input.c]()
+13. [mixwd_input.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/f5182b68938262dc7b957c1c28880bc12212b8f1/Introduction%20to%20Programming%20Language/mixwd_input.c)
 
     #### Description: This program will show how to write int and char in a single line & duo line.
 
-14. [convert_character_to_int.c]()
+14. [convert_character_to_int.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/f5182b68938262dc7b957c1c28880bc12212b8f1/Introduction%20to%20Programming%20Language/convert_character_to_int.c)
 
     #### Description: This program will show how to convert character to ASCII value.
 
-15. [distance_between_ASCII_value.c]()
+15. [distance_between_ASCII_value.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/f5182b68938262dc7b957c1c28880bc12212b8f1/Introduction%20to%20Programming%20Language/distance_between_ASCII_value.c)
 
     #### Description: This program will show how to find the distance between two ASCII value.
 
-16. [convert_int_to_character_and_show_distance.c]()
+16. [convert_int_to_character_and_show_distance.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/f5182b68938262dc7b957c1c28880bc12212b8f1/Introduction%20to%20Programming%20Language/convert_int_to_character_and_show_distance.c)
 
     #### Description: This program will show how to convert int to character and show the distance between two ASCII value.
 
-17. [if_else.c]()
-
-    #### Description : This is a simple program to find whether a number is even or odd in C language using if else statement.
-
-18. [x_greater_than_y.c]()
-
-    #### Description: This is a simple program to find out which number iis greater than thre other in C language using if else statement.
+    
