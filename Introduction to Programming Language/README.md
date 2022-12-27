@@ -44,9 +44,11 @@
 
     #### Description: This program will show how to convert int to character and show the distance between two ASCII value.
 
-17. [if_else.c]()
+17. [if_else.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/ccd7dd35b1655d4bb83c844d590e0854dea26950/Introduction%20to%20Programming%20Language/if_else.c)
 
     #### Description: This is a simple program to find whether a number is even or odd in C language using if else statement.
 
-18. [x_greater_than_y.c]()
+18. [x_greater_than_y.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/ccd7dd35b1655d4bb83c844d590e0854dea26950/Introduction%20to%20Programming%20Language/x_greater_than_y.c)
+    #### Description: This is a simple program to find out which number iis greater than thre other in C language using if else statement.
+
 
