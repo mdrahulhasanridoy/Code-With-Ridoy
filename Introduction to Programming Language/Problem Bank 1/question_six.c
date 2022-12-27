@@ -8,12 +8,13 @@ int main()
 {
     //variable declaration
     int a;
+    char c;
 
     //Create a message to take input from the user
     printf("Enter an integer: ");
 
     //variable initialization
-    scanf("%d", &a);
+    scanf("%d%c", &a, &c);
 
     //print the value
     printf("The value is %d", a);
