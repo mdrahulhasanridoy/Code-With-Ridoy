@@ -1,3 +1,5 @@
+![Introduction to Programming Language](https://user-images.githubusercontent.com/99040899/209607224-7a213925-6421-422f-a7f7-69471a691054.png)
+
 # List of all programs in Introduction to Programming Language
 
 1. [hello_world.c](https://github.com/mdrahulhasanridoy/Code-With-Ridoy/blob/fad04ba0e145d7846c6b8e0a0266216f0f7097ff/Introduction%20to%20Programming%20Language/hello_world.c)
