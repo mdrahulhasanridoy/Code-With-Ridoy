@@ -1,7 +1,7 @@
 //question_four.c
 //Author: Md. Rahul Hasan Ridoy
 //Date: 23/12/2022
-//Question Five : Write a C program to take two positive integers as input and show the summation, subtraction and multiplication of those two numbers.
+//Question Four : Write a C program to take two positive integers as input and show the summation, subtraction and multiplication of those two numbers.
 
 #include<stdio.h>
 int main()
