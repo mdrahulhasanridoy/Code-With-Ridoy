@@ -44,4 +44,9 @@
 
     #### Description: This program will show how to convert int to character and show the distance between two ASCII value.
 
-    
+17. [if_else.c]()
+
+    #### Description: This is a simple program to find whether a number is even or odd in C language using if else statement.
+
+18. [x_greater_than_y.c]()
+
